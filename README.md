@@ -18,7 +18,7 @@
 
 테라폼이라면 version을 6.68.0으로 통일
 
-```json
+```tf
 terraform {
   required_providers {
     aws = {
