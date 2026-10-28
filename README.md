@@ -105,3 +105,21 @@ aws ec2 start-instances --instance-ids i-1234567890abcdef0
     - 스터디 주제 30분
 
 IaC가 메인인 스터디가 아니므로 샘플 코드받고 트러블 슈팅만 진행 OK
+
+과제 환경
+
+1~4주차
+
+Devops 실습
+
+로컬에서 진행, 권장 스펙은 매주 전달 예정
+
+https://canonical.com/multipass
+
+AWS 실습
+
+5주차부터 IaC 프로비저닝하고 콘솔로 진행
+
+validate 방안 고민 필요
+
+
